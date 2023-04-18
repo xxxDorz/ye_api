@@ -1,0 +1,8 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+yeapi:
+  client:
+    access-key: "qwer"
+    secret-key: "rewq"
